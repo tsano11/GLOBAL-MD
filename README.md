@@ -1,4 +1,4 @@
-### FIXED & UPDATED
+Recommended Hosting In Termux You Will Get The All Features Of Bot
 
 --------
 
@@ -33,6 +33,7 @@ GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](http
 
 ### `GENERATE SESSION`
 
+`Click On Server 1 Button And Wait About 50 To 90 Seconds Website Will Take To Open As Per Renders Free Instance Policy`
 
 ### PAIRING SERVER 1
 --------
@@ -55,9 +56,11 @@ GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](http
 ### TUTORIAL FOR PANEL
 <a href="https://youtu.be/WpfdClSeQyg"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/WpfdClSeQyg" /><br>
 
-### BOT HOSTING PANEL
+### BOT HOSTING PANEL LINK
 <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
+
+`AFTER YARN GET INSTALLED, REMOVE YOUR COMMAND FROM BASH FILE AND CHANGE BOT START FILE NAME FROM index.js TO start.js`
 
 --------
 
